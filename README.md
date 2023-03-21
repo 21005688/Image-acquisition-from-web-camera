@@ -51,6 +51,7 @@ cv2.destroyAllWindows()
 
 
 ## ii) Display the video
+
 ```
 import cv2
 object=cv2.VideoCapture(0)
@@ -66,6 +67,7 @@ cv2.destroyAllWindows()
 
 
 ## iii) Display the video by resizing the window
+
 ```
 import numpy as np
 import cv2
@@ -118,7 +120,7 @@ cv2.destroyAllWindows()
 
 
 
-```
+
 ## Output
 
 ### i) Write the frame as JPG image
